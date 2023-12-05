@@ -1,0 +1,799 @@
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.AssemblyReference.cache
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfoInputs.cache
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfo.cs
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CoreCompileInputs.cache
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\appsettings.json
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.exe
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.deps.json
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.runtimeconfig.json
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.pdb
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Azure.Core.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Azure.Identity.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Dapper.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\NLog.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\RestSharp.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\scopedcss\bundle\H2HAPICore.styles.css
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CopyComplete
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\refint\H2HAPICore.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.pdb
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.genruntimeconfig.cache
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\ref\H2HAPICore.dll
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\nlog.config
+D:\GIT\WEB-DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.AssemblyReference.cache
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfoInputs.cache
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfo.cs
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CoreCompileInputs.cache
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\nlog.config
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.exe
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\appsettings.json
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.deps.json
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.runtimeconfig.json
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.pdb
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Azure.Core.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Azure.Identity.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Dapper.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\NLog.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\RestSharp.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Text.Json.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.H2HAPICore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.build.H2HAPICore.props
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.H2HAPICore.props
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.H2HAPICore.props
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\scopedcss\bundle\H2HAPICore.styles.css
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CopyComplete
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\refint\H2HAPICore.dll
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.pdb
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.genruntimeconfig.cache
+D:\GIT\WEBULL\H2HAPICore\H2HAPICore\obj\Debug\net6.0\ref\H2HAPICore.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\nlog.config
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\H2HAPICore.exe
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\appsettings.json
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\H2HAPICore.deps.json
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\H2HAPICore.runtimeconfig.json
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\H2HAPICore.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\H2HAPICore.pdb
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Azure.Core.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Azure.Identity.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Dapper.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\NLog.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\RestSharp.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\System.Text.Json.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.AssemblyReference.cache
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfoInputs.cache
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfo.cs
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CoreCompileInputs.cache
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.H2HAPICore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.build.H2HAPICore.props
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.H2HAPICore.props
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.H2HAPICore.props
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\scopedcss\bundle\H2HAPICore.styles.css
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CopyComplete
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\refint\H2HAPICore.dll
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.pdb
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\H2HAPICore.genruntimeconfig.cache
+D:\GIT\WEBULL\H2HAPINetcore-WEBULL\H2HAPICore\obj\Debug\net6.0\ref\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\nlog.config
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.exe
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\appsettings.json
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.deps.json
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.runtimeconfig.json
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.pdb
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Azure.Core.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Azure.Identity.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Dapper.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\NLog.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\RestSharp.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Text.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.AssemblyReference.cache
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfoInputs.cache
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfo.cs
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CoreCompileInputs.cache
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.H2HAPICore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.build.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\scopedcss\bundle\H2HAPICore.styles.css
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CopyComplete
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\refint\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.pdb
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.genruntimeconfig.cache
+D:\S21 MICROPIRANTI COMPUTER\WEEBULL\DEV\H2HAPICore\H2HAPICore\obj\Debug\net6.0\ref\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\nlog.config
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.exe
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\appsettings.json
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.deps.json
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.runtimeconfig.json
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.pdb
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Azure.Core.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Azure.Identity.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Dapper.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\NLog.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\RestSharp.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Text.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.AssemblyReference.cache
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfoInputs.cache
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfo.cs
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CoreCompileInputs.cache
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.H2HAPICore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.build.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\scopedcss\bundle\H2HAPICore.styles.css
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CopyComplete
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\refint\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.pdb
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.genruntimeconfig.cache
+D:\S21 MICROPIRANTI COMPUTER\VALBURY\H2HAPICore\H2HAPICore\obj\Debug\net6.0\ref\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\nlog.config
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.exe
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\appsettings.json
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.deps.json
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.runtimeconfig.json
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.pdb
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Azure.Core.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Azure.Identity.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Dapper.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\NLog.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\RestSharp.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Text.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.AssemblyReference.cache
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfoInputs.cache
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfo.cs
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CoreCompileInputs.cache
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.H2HAPICore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.build.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\scopedcss\bundle\H2HAPICore.styles.css
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CopyComplete
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\refint\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.pdb
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.genruntimeconfig.cache
+D:\S21 MICROPIRANTI COMPUTER\DEVELOPMENT\H2HAPICore\H2HAPICore\obj\Debug\net6.0\ref\H2HAPICore.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\nlog.config
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.exe
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\appsettings.json
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.deps.json
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.runtimeconfig.json
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.pdb
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Azure.Core.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Azure.Identity.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Dapper.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\NLog.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\RestSharp.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Text.Json.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.AssemblyReference.cache
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfoInputs.cache
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfo.cs
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CoreCompileInputs.cache
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.H2HAPICore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.build.H2HAPICore.props
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.H2HAPICore.props
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.H2HAPICore.props
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\scopedcss\bundle\H2HAPICore.styles.css
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CopyComplete
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\refint\H2HAPICore.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.pdb
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.genruntimeconfig.cache
+D:\GIT\RHB\h2hapicore\H2HAPICore\obj\Debug\net6.0\ref\H2HAPICore.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\SoapCore.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.CodeDom.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Private.ServiceModel.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.ServiceModel.Http.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\cs\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\de\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\es\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\fr\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\it\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\ja\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\ko\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\pl\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\ru\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\tr\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\GIT\RHB\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\nlog.config
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.exe
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\appsettings.json
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.deps.json
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.runtimeconfig.json
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.pdb
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Azure.Core.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Azure.Identity.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Dapper.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\NLog.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\RestSharp.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\SoapCore.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.CodeDom.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Private.ServiceModel.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.ServiceModel.Http.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Text.Json.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\cs\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\de\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\es\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\fr\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\it\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\ja\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\ko\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\pl\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\ru\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\tr\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.AssemblyReference.cache
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfoInputs.cache
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfo.cs
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CoreCompileInputs.cache
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.H2HAPICore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.build.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.H2HAPICore.props
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\scopedcss\bundle\H2HAPICore.styles.css
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CopyComplete
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\refint\H2HAPICore.dll
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.pdb
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.genruntimeconfig.cache
+D:\S21 MICROPIRANTI COMPUTER\GIT\h2hapicore\H2HAPICore\obj\Debug\net6.0\ref\H2HAPICore.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\nlog.config
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\web.config
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\appjs\db.json
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\appjs\package-lock.json
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\appjs\package.json
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.exe
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\appsettings.json
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.deps.json
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.runtimeconfig.json
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\H2HAPICore.pdb
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Azure.Core.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Azure.Identity.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Dapper.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\NLog.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\RestSharp.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\SoapCore.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.CodeDom.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Private.ServiceModel.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.ServiceModel.Http.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Text.Json.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\cs\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\de\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\es\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\fr\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\it\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\ja\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\ko\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\pl\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\ru\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\tr\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.AssemblyReference.cache
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfoInputs.cache
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.AssemblyInfo.cs
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CoreCompileInputs.cache
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.H2HAPICore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.build.H2HAPICore.props
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.H2HAPICore.props
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.H2HAPICore.props
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\scopedcss\bundle\H2HAPICore.styles.css
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.csproj.CopyComplete
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\refint\H2HAPICore.dll
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.pdb
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\H2HAPICore.genruntimeconfig.cache
+D:\MPC_PROJECT\h2hapicore\h2hapicore\H2HAPICore\obj\Debug\net6.0\ref\H2HAPICore.dll

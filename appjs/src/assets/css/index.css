@@ -1,0 +1,352 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap");
+
+:root {
+  --header-height: 3rem;
+  --nav-width: 68px;
+  --content-width: 3px;
+
+  /* --first-color: #0060f0;
+  --first-color-alt: #768cf1;
+  --white-color: #dddfff; */
+
+  --toggle-color: #0060f0;
+  --first-color: #fff;
+  --first-color-alt: #768cf1;
+  --white-color: #dddfff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+main {
+  position: relative;
+  margin: var(--header-height) 0 0 0;
+  padding: 0 1rem;
+  font-size: 1rem;
+  font-family: "Nunito Sans", sans-serif;
+  transition: 0.5s;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 1rem 0.5rem;
+  background-image: url("/img/bg-login.png");
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: var(--header-height);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+  background-color: var(--white-color);
+  padding: 0 1rem;
+  transition: 0.5s;
+}
+
+.header-toggle {
+  font-size: 1.25rem;
+  cursor: pointer;
+  color: var(--toggle-color);
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: -30%;
+  height: 100vh;
+  width: var(--nav-width);
+  background-color: var(--first-color);
+  padding-top: 1rem;
+  transition: 0.5s;
+  z-index: 2;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  height: 100%;
+}
+
+.nav-list {
+  font-size: large;
+}
+
+.nav-logo,
+.nav-link {
+  display: grid;
+  grid-template-columns: max-content max-content;
+  column-gap: 2rem;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
+  text-decoration: none;
+}
+
+.nav-logo {
+  margin-bottom: 2rem;
+}
+
+.nav-logo span {
+  font-size: 30px;
+}
+
+.nav-logo-icon {
+  font-size: 1.25rem;
+  color: var(--toggle-color);
+  cursor: pointer;
+}
+
+.nav-logo-name {
+  font-weight: 700;
+  color: var(--toggle-color);
+}
+
+.nav-link {
+  position: relative;
+  transition: 0.5s;
+  margin-bottom: 1.5rem;
+}
+
+.nav-link span {
+  padding-left: 1rem;
+}
+
+.nav-link:hover {
+  color: var(--toggle-color);
+  background-color: var(--white-color);
+}
+
+.active {
+  color: var(--toggle-color);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.active::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 38px;
+  width: 3px;
+  background-color: var(--toggle-color);
+  transition: 0.5s;
+}
+
+.show {
+  left: 0;
+}
+
+.space-toggle {
+  padding-left: calc(var(--nav-width) + 1rem);
+}
+
+.card {
+  margin-top: 4rem;
+}
+
+.nav-link-name {
+  display: none;
+}
+
+.login {
+  max-width: 420px;
+  min-height: 400px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+}
+
+.missing {
+  width: 100%;
+  min-height: 75vh;
+  margin-top: 7rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex-grow: 1;
+  padding-bottom: 1rem;
+}
+
+a,
+a:visited {
+  color: #000;
+}
+
+input[type="text"],
+input[type="password"],
+button,
+textarea {
+  font-family: "Nunito", sans-serif;
+  font-size: 22px;
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+}
+
+label,
+button {
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.App button {
+  padding: 0.4rem;
+  margin-top: 1rem;
+}
+
+.instructions {
+  font-size: 0.75rem;
+  border-radius: 0.5rem;
+  background: #000;
+  color: #fff;
+  padding: 0.25rem;
+  position: relative;
+  bottom: -10px;
+}
+
+.instructions > svg {
+  margin-right: 0.25rem;
+}
+
+.offscreen {
+  position: absolute;
+  left: -9999px;
+}
+
+.hide {
+  display: none;
+}
+
+.valid {
+  color: limegreen;
+  margin-left: 0.25rem;
+}
+
+.invalid {
+  color: red;
+  margin-left: 0.25rem;
+}
+
+.errmsg {
+  background-color: lightpink;
+  color: firebrick;
+  font-weight: bold;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.line {
+  display: inline-block;
+}
+
+@media screen and (min-width: 768px) {
+  main {
+    margin: calc(var(--header-height) + 1rem) 0 0 0;
+    padding: 0 1rem 0 calc(var(--nav-width) + 2rem);
+  }
+
+  .header {
+    height: calc(var(--header-height) + 1rem);
+    padding-left: calc(var(--nav-width) + 2rem);
+  }
+
+  .sidebar {
+    left: 0;
+    padding: 1rem 0 0 0;
+  }
+
+  .card {
+    margin-left: -1rem;
+    margin-top: 5rem;
+  }
+
+  .nav-link-name {
+    display: inline;
+  }
+
+  .show {
+    width: calc(var(--header-height) + 156px);
+  }
+
+  .space-toggle {
+    padding-left: calc(var(--nav-width) + 188px);
+  }
+}
+
+
+/* region input typehead */
+.search-bar-container {
+  padding-top: 20vh;
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+}
+
+.results-list {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 0px 8px #ddd;
+  border-radius: 10px;
+  margin-top: 1rem;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.search-result {
+  padding: 10px 20px;
+}
+
+.search-result:hover {
+  background-color: #efefef;
+}
+
+.input-wrapper {
+  width: 100%;
+  height: 2.5rem;
+  border: none;
+  border-radius: 10px;
+  padding: 0 15px;
+  box-shadow: 0px 0px 8px #ddd;
+  background-color: white;
+  display: flex;
+  align-items: center;
+}
+
+input:focus {
+  outline: none;
+}
+
+#search-icon {
+  color: royalblue;
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\H2HAPICore.props" />
+</Project>

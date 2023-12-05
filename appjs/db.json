@@ -1,0 +1,713 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "icam",
+      "pwd": "hayohayo",
+      "role": "admin"
+    },
+    {
+      "id": "ntuser",
+      "name": "sth",
+      "pwd": "ntuser",
+      "role": "user"
+    }
+  ],
+  "roleaccess": [
+    {
+      "role": "admin",
+      "menu": "customer",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    },
+    {
+      "role": "admin",
+      "menu": "supplier",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    },
+    {
+      "role": "user",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    },
+    {
+      "role": "user1",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    }
+  ],
+  "customer": [
+    {
+      "code": 1,
+      "name": "Chris",
+      "email": "chris@in.com"
+    },
+    {
+      "code": 2,
+      "name": "Lynn",
+      "email": "lynn@in.com"
+    },
+    {
+      "code": 3,
+      "name": "Tim",
+      "email": "tim@in.com"
+    },
+    {
+      "code": 4,
+      "name": "Southee",
+      "email": "southee@in.com"
+    },
+    {
+      "code": 5,
+      "name": "boult",
+      "email": "bould@in.com"
+    }
+  ],
+  "bondmatured": [
+    {
+        "field": "Selected",
+        "title": "Selected",
+        "sortable": true,
+        "filterControl": "select"
+    },
+    {
+        "field": "BondMaturedNID",
+        "title": "Bond Matured NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "QWEB_Pending",
+        "title": "QWEB_ Pending",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "Checked",
+        "title": "Checked",
+        "sortable": true,
+        "filterControl": "select"
+    },
+    {
+        "field": "Approved",
+        "title": "Approved",
+        "sortable": true,
+        "filterControl": "select"
+    },
+    {
+        "field": "Rejected",
+        "title": "Rejected",
+        "sortable": true,
+        "filterControl": "select"
+    },
+    {
+        "field": "Revised",
+        "title": "Revised",
+        "sortable": true,
+        "filterControl": "select"
+    },
+    {
+        "field": "Reconciled",
+        "title": "Reconciled",
+        "sortable": true,
+        "filterControl": "select"
+    },
+    {
+        "field": "Date",
+        "title": "Date",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "BondMaturedType",
+        "title": "Bond Matured Type",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "BondTrxNID",
+        "title": "Bond Trx NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "PortofolioID",
+        "title": "Portofolio ID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "PortofolioName",
+        "title": "Portofolio Name",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "BondID",
+        "title": "Bond ID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "NetAmount",
+        "title": "Net Amount",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "CouponAmount",
+        "title": "Coupon Amount",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "CouponTax",
+        "title": "Coupon Tax",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "FaceValue",
+        "title": "Face Value",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "HoldingDays",
+        "title": "Holding Days",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "CouponTaxPercent",
+        "title": "Coupon Tax Percent",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "AcqDate",
+        "title": "Acq Date",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "AcqPrice",
+        "title": "Acq Price",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "NetCouponAmount",
+        "title": "Net Coupon Amount",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "ReconNetAmount",
+        "title": "Recon Net Amount",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "ReconCouponTax",
+        "title": "Recon Coupon Tax",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "ReconHoldingDays",
+        "title": "Recon Holding Days",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ReconCouponTaxPercent",
+        "title": "Recon Coupon Tax Percent",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "PaidAmount",
+        "title": "Paid Amount",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "IssuerPaidAmount",
+        "title": "Issuer Paid Amount",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "CouponDays",
+        "title": "Coupon Days",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "CurrencyNID",
+        "title": "Currency NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "CouponPercent",
+        "title": "Coupon Percent",
+        "sortable": true,
+        "filterControl": "input",
+        "align": "right"
+    },
+    {
+        "field": "IssueDate",
+        "title": "Issue Date",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "MaturityDate",
+        "title": "Maturity Date",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "FirstCouponDate",
+        "title": "First Coupon Date",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "LastCouponDate",
+        "title": "Last Coupon Date",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "PrevCouponDate",
+        "title": "Prev Coupon Date",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "NextCouponDate",
+        "title": "Next Coupon Date",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "CouponFrequency",
+        "title": "Coupon Frequency",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "CouponBasis",
+        "title": "Coupon Basis",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "CouponPaymentType",
+        "title": "Coupon Payment Type",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "CouponAccrualType",
+        "title": "Coupon Accrual Type",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "Coupontype",
+        "title": "Coupontype",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "OldBondMaturedNID",
+        "title": "Old Bond Matured NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "NewBondMaturedNID",
+        "title": "New Bond Matured NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ChangeNID",
+        "title": "Change NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "JournalNID",
+        "title": "Journal NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "CustodiNID",
+        "title": "Custodi NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "PaymentNID",
+        "title": "Payment NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "Paid",
+        "title": "Paid",
+        "sortable": true,
+        "filterControl": "select"
+    },
+    {
+        "field": "PaymentDate",
+        "title": "Payment Date",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "IssuerPaymentNID",
+        "title": "Issuer Payment NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "IssuerPaid",
+        "title": "Issuer Paid",
+        "sortable": true,
+        "filterControl": "select"
+    },
+    {
+        "field": "IssuerPaymentDate",
+        "title": "Issuer Payment Date",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "EntryUserNID",
+        "title": "Entry User NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "EntryComputerName",
+        "title": "Entry Computer Name",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "EntryIPAddress",
+        "title": "Entry IPAddress",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "EntryTime",
+        "title": "Entry Time",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "CheckUserNID",
+        "title": "Check User NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "CheckComputerName",
+        "title": "Check Computer Name",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "CheckIPAddress",
+        "title": "Check IPAddress",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "CheckTime",
+        "title": "Check Time",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "ApproveUserNID",
+        "title": "Approve User NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ApproveComputerName",
+        "title": "Approve Computer Name",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ApproveIPAddress",
+        "title": "Approve IPAddress",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ApproveTime",
+        "title": "Approve Time",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "RejectUserNID",
+        "title": "Reject User NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "RejectComputerName",
+        "title": "Reject Computer Name",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "RejectIPAddress",
+        "title": "Reject IPAddress",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "RejectTime",
+        "title": "Reject Time",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "ReviseUserNID",
+        "title": "Revise User NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ReviseComputerName",
+        "title": "Revise Computer Name",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ReviseIPAddress",
+        "title": "Revise IPAddress",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ReviseTime",
+        "title": "Revise Time",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "ReconUserNID",
+        "title": "Recon User NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ReconComputerName",
+        "title": "Recon Computer Name",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ReconIPAddress",
+        "title": "Recon IPAddress",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "ReconTime",
+        "title": "Recon Time",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "AppUserNID",
+        "title": "App User NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "AppComputerName",
+        "title": "App Computer Name",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "AppIPAddress",
+        "title": "App IPAddress",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "LastUpdate",
+        "title": "Last Update",
+        "sortable": true,
+        "filterControl": "date",
+        "formatter": "dateFormatter"
+    },
+    {
+        "field": "BondNID",
+        "title": "Bond NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "SelectUserNID",
+        "title": "Select User NID",
+        "sortable": true,
+        "filterControl": "input"
+    },
+    {
+        "field": "SelectUserID",
+        "title": "Select User ID",
+        "sortable": true,
+        "filterControl": "input"
+    }
+],
+"dataBond": [
+    {
+        "BondMaturedNID": 1031133,
+        "Date": "2023-11-13T00:00:00",
+        "BondMaturedType": 0,
+        "BondTrxNID": 45563,
+        "PortfolioNID": 252297,
+        "BondNID": 6963,
+        "IssueDate": "2020-08-13T00:00:00",
+        "MaturityDate": "2027-08-13T00:00:00",
+        "CouponPercent": 0.091,
+        "CouponType": 0,
+        "CouponFrequency": 4,
+        "CouponBasis": 4,
+        "CouponAccrualType": 0,
+        "CouponPaymentType": 0,
+        "FirstCouponDate": "2020-11-13T00:00:00",
+        "LastCouponDate": null,
+        "PrevCouponDate": "2023-08-13T00:00:00",
+        "NextCouponDate": "2023-11-13T00:00:00",
+        "CouponTaxPercent": 0.1,
+        "CouponDays": 90,
+        "HoldingDays": 90,
+        "CurrencyNID": 1,
+        "CurrencyRate": 1,
+        "AcqDate": "2020-08-13T00:00:00",
+        "AcqPrice": 1,
+        "FaceValue": 1000000000,
+        "CouponAmount": 22750000,
+        "CouponTax": 2275000,
+        "NetAmount": 20475000,
+        "ReconCouponTaxPercent": 0,
+        "ReconHoldingDays": 0,
+        "ReconCouponAmount": 0,
+        "ReconCouponTax": 0,
+        "ReconNetAmount": 0,
+        "JournalNID": 0,
+        "CustodiNID": 0,
+        "PaidAmount": 0,
+        "IssuerPaidAmount": 0,
+        "PaymentDate": null,
+        "Paid": false,
+        "PaymentNID": 0,
+        "IssuerPaymentDate": null,
+        "IssuerPaid": false,
+        "IssuerPaymentNID": 0,
+        "Checked": false,
+        "Approved": false,
+        "Rejected": false,
+        "Revised": false,
+        "Reconciled": false,
+        "ChangeNID": 0,
+        "OldBondMaturedNID": 0,
+        "NewBondMaturedNID": 0,
+        "EntryUserNID": 2032,
+        "EntryTime": "2023-11-09T13:53:36.58",
+        "EntryIPAddress": "172.25.96.177",
+        "EntryComputerName": "BOC-HUSEIN22",
+        "CheckUserNID": null,
+        "CheckTime": null,
+        "CheckIPAddress": null,
+        "CheckComputerName": null,
+        "ApproveUserNID": null,
+        "ApproveTime": null,
+        "ApproveIPAddress": null,
+        "ApproveComputerName": null,
+        "RejectUserNID": null,
+        "RejectTime": null,
+        "RejectIPAddress": null,
+        "RejectComputerName": null,
+        "ReconUserNID": null,
+        "ReconTime": null,
+        "ReconIPAddress": null,
+        "ReconComputerName": null,
+        "ReviseUserNID": null,
+        "ReviseTime": null,
+        "ReviseIPAddress": null,
+        "ReviseComputerName": null,
+        "Selected": false,
+        "SelectUserNID": null,
+        "SelectTime": null,
+        "SelectIPAddress": null,
+        "SelectComputerName": null,
+        "AppUserNID": 2032,
+        "AppIPAddress": "172.25.96.177",
+        "AppComputerName": "BOC-HUSEIN22",
+        "SysUserID": "s21+",
+        "SysTerminalID": "GTI-S21BOWEB",
+        "LastUpdate": "2023-11-09T13:53:36.58",
+        "TimeStamp": "AAAACB5Xsjo=",
+        "CashRefNID": 19,
+        "SafekeepingFee": 0,
+        "SafekeepingFeeVAT": 0,
+        "NetCouponAmount": 20475000,
+        "Charges": 0,
+        "RecordingDate": null
+      }
+]
+}
